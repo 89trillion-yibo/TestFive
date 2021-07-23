@@ -1,0 +1,674 @@
+INFO: 2021/07/21 20:11:45 server.go:45: 新的用户连接,aaa
+INFO: 2021/07/21 20:11:46 server.go:45: 新的用户连接,bbb
+INFO: 2021/07/21 20:11:48 server.go:45: 新的用户连接,ccc
+INFO: 2021/07/21 20:11:49 server.go:45: 新的用户连接,hyb
+INFO: 2021/07/21 20:11:57 server.go:77: 发送消息: [34 97 97 97 58 104 101 108 108 111 32 119 101 98 115 111 99 107 101 116 34]
+INFO: 2021/07/21 20:11:57 server.go:77: 发送消息: [34 97 97 97 58 104 101 108 108 111 32 119 101 98 115 111 99 107 101 116 34]
+INFO: 2021/07/21 20:11:57 server.go:77: 发送消息: [34 97 97 97 58 104 101 108 108 111 32 119 101 98 115 111 99 107 101 116 34]
+INFO: 2021/07/21 20:11:57 server.go:77: 发送消息: [34 97 97 97 58 104 101 108 108 111 32 119 101 98 115 111 99 107 101 116 34]
+INFO: 2021/07/21 20:15:28 server.go:46: 新的用户连接,aaa
+INFO: 2021/07/21 20:15:30 server.go:46: 新的用户连接,bbb
+INFO: 2021/07/21 20:15:31 server.go:46: 新的用户连接,ccc
+INFO: 2021/07/21 20:15:33 server.go:46: 新的用户连接,hyb
+INFO: 2021/07/21 20:15:39 server.go:80: 发送消息: aaa:hello websocket
+INFO: 2021/07/21 20:15:39 server.go:80: 发送消息: aaa:hello websocket
+INFO: 2021/07/21 20:15:39 server.go:80: 发送消息: aaa:hello websocket
+INFO: 2021/07/21 20:15:39 server.go:80: 发送消息: aaa:hello websocket
+INFO: 2021/07/21 20:18:06 server.go:46: 新的用户连接,aaa
+INFO: 2021/07/21 20:18:08 server.go:46: 新的用户连接,bbb
+INFO: 2021/07/21 20:18:09 server.go:46: 新的用户连接,ccc
+INFO: 2021/07/21 20:18:10 server.go:46: 新的用户连接,hyb
+INFO: 2021/07/21 20:18:16 server.go:70: 返回用户列表: {{{} [] [] <nil>} 0 []    [aaa bbb ccc hyb]}
+INFO: 2021/07/21 20:18:32 server.go:57: ccc 用户退出
+INFO: 2021/07/21 20:18:34 server.go:57: bbb 用户退出
+INFO: 2021/07/21 20:18:55 server.go:57: aaa 用户退出
+INFO: 2021/07/21 20:19:41 server.go:46: 新的用户连接,
+INFO: 2021/07/21 20:19:44 server.go:46: 新的用户连接,
+INFO: 2021/07/21 20:19:58 server.go:57: hyb 用户退出
+INFO: 2021/07/21 20:20:07 server.go:57:  用户退出
+INFO: 2021/07/21 20:20:08 server.go:57:  用户退出
+INFO: 2021/07/21 20:30:13 server.go:46: 新的用户连接,ccc
+INFO: 2021/07/21 20:30:21 server.go:46: 新的用户连接,hyb
+INFO: 2021/07/21 20:30:23 server.go:46: 新的用户连接,aaa
+INFO: 2021/07/21 20:30:23 server.go:57: aaa 用户退出
+INFO: 2021/07/21 20:30:25 server.go:46: 新的用户连接,bbb
+INFO: 2021/07/21 20:33:34 server.go:46: 新的用户连接,
+INFO: 2021/07/21 20:33:34 server.go:46: 新的用户连接,
+INFO: 2021/07/21 20:33:34 server.go:46: 新的用户连接,
+INFO: 2021/07/21 20:33:34 server.go:46: 新的用户连接,
+INFO: 2021/07/21 20:33:35 server.go:46: 新的用户连接,
+INFO: 2021/07/21 20:33:35 server.go:46: 新的用户连接,
+INFO: 2021/07/21 20:33:35 server.go:46: 新的用户连接,
+INFO: 2021/07/21 20:33:35 server.go:46: 新的用户连接,
+INFO: 2021/07/21 20:33:35 server.go:46: 新的用户连接,
+INFO: 2021/07/21 20:33:35 server.go:46: 新的用户连接,
+INFO: 2021/07/21 20:33:35 server.go:46: 新的用户连接,
+INFO: 2021/07/21 20:33:35 server.go:46: 新的用户连接,
+INFO: 2021/07/21 20:33:35 server.go:46: 新的用户连接,
+INFO: 2021/07/21 20:33:35 server.go:46: 新的用户连接,
+INFO: 2021/07/21 20:33:36 server.go:46: 新的用户连接,
+INFO: 2021/07/21 20:33:36 server.go:46: 新的用户连接,
+INFO: 2021/07/21 20:33:36 server.go:46: 新的用户连接,
+INFO: 2021/07/21 20:33:36 server.go:46: 新的用户连接,
+INFO: 2021/07/21 20:33:36 server.go:46: 新的用户连接,
+INFO: 2021/07/21 20:33:36 server.go:46: 新的用户连接,
+INFO: 2021/07/21 20:33:36 server.go:46: 新的用户连接,
+INFO: 2021/07/21 20:33:36 server.go:46: 新的用户连接,
+INFO: 2021/07/21 20:33:36 server.go:46: 新的用户连接,
+INFO: 2021/07/21 20:33:36 server.go:46: 新的用户连接,
+INFO: 2021/07/21 20:33:37 server.go:46: 新的用户连接,
+INFO: 2021/07/21 20:33:37 server.go:46: 新的用户连接,
+INFO: 2021/07/21 20:33:37 server.go:46: 新的用户连接,
+INFO: 2021/07/21 20:33:37 server.go:46: 新的用户连接,
+INFO: 2021/07/21 20:33:37 server.go:46: 新的用户连接,
+INFO: 2021/07/21 20:33:37 server.go:46: 新的用户连接,
+INFO: 2021/07/21 20:33:37 server.go:46: 新的用户连接,
+INFO: 2021/07/21 20:33:37 server.go:46: 新的用户连接,
+INFO: 2021/07/21 20:33:37 server.go:46: 新的用户连接,
+INFO: 2021/07/21 20:33:38 server.go:46: 新的用户连接,
+INFO: 2021/07/21 20:33:38 server.go:46: 新的用户连接,
+INFO: 2021/07/21 20:33:38 server.go:46: 新的用户连接,
+INFO: 2021/07/21 20:33:38 server.go:46: 新的用户连接,
+INFO: 2021/07/21 20:33:38 server.go:46: 新的用户连接,
+INFO: 2021/07/21 20:33:38 server.go:46: 新的用户连接,
+INFO: 2021/07/21 20:33:38 server.go:46: 新的用户连接,
+INFO: 2021/07/21 20:33:38 server.go:46: 新的用户连接,
+INFO: 2021/07/21 20:33:38 server.go:46: 新的用户连接,
+INFO: 2021/07/21 20:33:38 server.go:46: 新的用户连接,
+INFO: 2021/07/21 20:33:39 server.go:46: 新的用户连接,
+INFO: 2021/07/21 20:33:39 server.go:46: 新的用户连接,
+INFO: 2021/07/21 20:33:39 server.go:46: 新的用户连接,
+INFO: 2021/07/21 20:33:39 server.go:46: 新的用户连接,
+INFO: 2021/07/21 20:33:39 server.go:46: 新的用户连接,
+INFO: 2021/07/21 20:33:39 server.go:46: 新的用户连接,
+INFO: 2021/07/21 20:33:39 server.go:46: 新的用户连接,
+INFO: 2021/07/21 20:33:39 server.go:46: 新的用户连接,
+INFO: 2021/07/21 20:33:39 server.go:46: 新的用户连接,
+INFO: 2021/07/21 20:33:39 server.go:46: 新的用户连接,
+INFO: 2021/07/21 20:33:40 server.go:46: 新的用户连接,
+INFO: 2021/07/21 20:33:40 server.go:46: 新的用户连接,
+INFO: 2021/07/21 20:33:40 server.go:46: 新的用户连接,
+INFO: 2021/07/21 20:33:40 server.go:46: 新的用户连接,
+INFO: 2021/07/21 20:33:40 server.go:46: 新的用户连接,
+INFO: 2021/07/21 20:33:40 server.go:46: 新的用户连接,
+INFO: 2021/07/21 20:33:40 server.go:46: 新的用户连接,
+INFO: 2021/07/21 20:33:40 server.go:46: 新的用户连接,
+INFO: 2021/07/21 20:33:40 server.go:46: 新的用户连接,
+INFO: 2021/07/21 20:33:40 server.go:46: 新的用户连接,
+INFO: 2021/07/21 20:33:41 server.go:46: 新的用户连接,
+INFO: 2021/07/21 20:33:41 server.go:46: 新的用户连接,
+INFO: 2021/07/21 20:33:41 server.go:46: 新的用户连接,
+INFO: 2021/07/21 20:33:41 server.go:46: 新的用户连接,
+INFO: 2021/07/21 20:33:41 server.go:46: 新的用户连接,
+INFO: 2021/07/21 20:33:41 server.go:46: 新的用户连接,
+INFO: 2021/07/21 20:33:41 server.go:46: 新的用户连接,
+INFO: 2021/07/21 20:33:41 server.go:46: 新的用户连接,
+INFO: 2021/07/21 20:33:41 server.go:46: 新的用户连接,
+INFO: 2021/07/21 20:33:41 server.go:46: 新的用户连接,
+INFO: 2021/07/21 20:33:42 server.go:46: 新的用户连接,
+INFO: 2021/07/21 20:33:42 server.go:46: 新的用户连接,
+INFO: 2021/07/21 20:33:42 server.go:46: 新的用户连接,
+INFO: 2021/07/21 20:33:42 server.go:46: 新的用户连接,
+INFO: 2021/07/21 20:33:42 server.go:46: 新的用户连接,
+INFO: 2021/07/21 20:33:42 server.go:46: 新的用户连接,
+INFO: 2021/07/21 20:33:42 server.go:46: 新的用户连接,
+INFO: 2021/07/21 20:33:42 server.go:46: 新的用户连接,
+INFO: 2021/07/21 20:33:42 server.go:46: 新的用户连接,
+INFO: 2021/07/21 20:33:43 server.go:46: 新的用户连接,
+INFO: 2021/07/21 20:33:43 server.go:46: 新的用户连接,
+INFO: 2021/07/21 20:33:43 server.go:46: 新的用户连接,
+INFO: 2021/07/21 20:33:43 server.go:46: 新的用户连接,
+INFO: 2021/07/21 20:33:43 server.go:46: 新的用户连接,
+INFO: 2021/07/21 20:33:43 server.go:46: 新的用户连接,
+INFO: 2021/07/21 20:33:43 server.go:46: 新的用户连接,
+INFO: 2021/07/21 20:33:43 server.go:46: 新的用户连接,
+INFO: 2021/07/21 20:33:43 server.go:46: 新的用户连接,
+INFO: 2021/07/21 20:33:43 server.go:46: 新的用户连接,
+INFO: 2021/07/21 20:33:44 server.go:46: 新的用户连接,
+INFO: 2021/07/21 20:33:44 server.go:46: 新的用户连接,
+INFO: 2021/07/21 20:33:44 server.go:46: 新的用户连接,
+INFO: 2021/07/21 20:33:44 server.go:46: 新的用户连接,
+INFO: 2021/07/21 20:33:44 server.go:46: 新的用户连接,
+INFO: 2021/07/21 20:33:44 server.go:46: 新的用户连接,
+INFO: 2021/07/21 20:33:44 server.go:46: 新的用户连接,
+INFO: 2021/07/21 20:33:44 server.go:46: 新的用户连接,
+INFO: 2021/07/21 20:33:49 server.go:57: ccc 用户退出
+INFO: 2021/07/21 20:33:57 server.go:57: hyb 用户退出
+INFO: 2021/07/21 20:34:01 server.go:57: bbb 用户退出
+INFO: 2021/07/21 20:34:34 server.go:57:  用户退出
+INFO: 2021/07/21 20:34:34 server.go:57:  用户退出
+INFO: 2021/07/21 20:34:34 server.go:57:  用户退出
+INFO: 2021/07/21 20:34:34 server.go:57:  用户退出
+INFO: 2021/07/21 20:34:35 server.go:57:  用户退出
+INFO: 2021/07/21 20:34:35 server.go:57:  用户退出
+INFO: 2021/07/21 20:34:35 server.go:57:  用户退出
+INFO: 2021/07/21 20:34:35 server.go:57:  用户退出
+INFO: 2021/07/21 20:34:35 server.go:57:  用户退出
+INFO: 2021/07/21 20:34:35 server.go:57:  用户退出
+INFO: 2021/07/21 20:34:35 server.go:57:  用户退出
+INFO: 2021/07/21 20:34:35 server.go:57:  用户退出
+INFO: 2021/07/21 20:34:35 server.go:57:  用户退出
+INFO: 2021/07/21 20:34:35 server.go:57:  用户退出
+INFO: 2021/07/21 20:34:36 server.go:57:  用户退出
+INFO: 2021/07/21 20:34:36 server.go:57:  用户退出
+INFO: 2021/07/21 20:34:36 server.go:57:  用户退出
+INFO: 2021/07/21 20:34:36 server.go:57:  用户退出
+INFO: 2021/07/21 20:34:36 server.go:57:  用户退出
+INFO: 2021/07/21 20:34:36 server.go:57:  用户退出
+INFO: 2021/07/21 20:34:36 server.go:57:  用户退出
+INFO: 2021/07/21 20:34:36 server.go:57:  用户退出
+INFO: 2021/07/21 20:34:36 server.go:57:  用户退出
+INFO: 2021/07/21 20:34:36 server.go:57:  用户退出
+INFO: 2021/07/21 20:34:37 server.go:57:  用户退出
+INFO: 2021/07/21 20:34:37 server.go:57:  用户退出
+INFO: 2021/07/21 20:34:37 server.go:57:  用户退出
+INFO: 2021/07/21 20:34:37 server.go:57:  用户退出
+INFO: 2021/07/21 20:34:37 server.go:57:  用户退出
+INFO: 2021/07/21 20:34:37 server.go:57:  用户退出
+INFO: 2021/07/21 20:34:37 server.go:57:  用户退出
+INFO: 2021/07/21 20:34:37 server.go:57:  用户退出
+INFO: 2021/07/21 20:34:37 server.go:57:  用户退出
+INFO: 2021/07/21 20:34:38 server.go:57:  用户退出
+INFO: 2021/07/21 20:34:38 server.go:57:  用户退出
+INFO: 2021/07/21 20:34:38 server.go:57:  用户退出
+INFO: 2021/07/21 20:34:38 server.go:57:  用户退出
+INFO: 2021/07/21 20:34:38 server.go:57:  用户退出
+INFO: 2021/07/21 20:34:38 server.go:57:  用户退出
+INFO: 2021/07/21 20:34:38 server.go:57:  用户退出
+INFO: 2021/07/21 20:34:38 server.go:57:  用户退出
+INFO: 2021/07/21 20:34:38 server.go:57:  用户退出
+INFO: 2021/07/21 20:34:38 server.go:57:  用户退出
+INFO: 2021/07/21 20:34:39 server.go:57:  用户退出
+INFO: 2021/07/21 20:34:39 server.go:57:  用户退出
+INFO: 2021/07/21 20:34:39 server.go:57:  用户退出
+INFO: 2021/07/21 20:34:39 server.go:57:  用户退出
+INFO: 2021/07/21 20:34:39 server.go:57:  用户退出
+INFO: 2021/07/21 20:34:39 server.go:57:  用户退出
+INFO: 2021/07/21 20:34:39 server.go:57:  用户退出
+INFO: 2021/07/21 20:34:39 server.go:57:  用户退出
+INFO: 2021/07/21 20:34:39 server.go:57:  用户退出
+INFO: 2021/07/21 20:34:39 server.go:57:  用户退出
+INFO: 2021/07/21 20:34:40 server.go:57:  用户退出
+INFO: 2021/07/21 20:34:40 server.go:57:  用户退出
+INFO: 2021/07/21 20:34:40 server.go:57:  用户退出
+INFO: 2021/07/21 20:34:40 server.go:57:  用户退出
+INFO: 2021/07/21 20:34:40 server.go:57:  用户退出
+INFO: 2021/07/21 20:34:40 server.go:57:  用户退出
+INFO: 2021/07/21 20:34:40 server.go:57:  用户退出
+INFO: 2021/07/21 20:34:40 server.go:57:  用户退出
+INFO: 2021/07/21 20:34:40 server.go:57:  用户退出
+INFO: 2021/07/21 20:34:40 server.go:57:  用户退出
+INFO: 2021/07/21 20:34:41 server.go:57:  用户退出
+INFO: 2021/07/21 20:34:41 server.go:57:  用户退出
+INFO: 2021/07/21 20:34:41 server.go:57:  用户退出
+INFO: 2021/07/21 20:34:41 server.go:57:  用户退出
+INFO: 2021/07/21 20:34:41 server.go:57:  用户退出
+INFO: 2021/07/21 20:34:41 server.go:57:  用户退出
+INFO: 2021/07/21 20:34:41 server.go:57:  用户退出
+INFO: 2021/07/21 20:34:41 server.go:57:  用户退出
+INFO: 2021/07/21 20:34:41 server.go:57:  用户退出
+INFO: 2021/07/21 20:34:41 server.go:57:  用户退出
+INFO: 2021/07/21 20:34:42 server.go:57:  用户退出
+INFO: 2021/07/21 20:34:42 server.go:57:  用户退出
+INFO: 2021/07/21 20:34:42 server.go:57:  用户退出
+INFO: 2021/07/21 20:34:42 server.go:57:  用户退出
+INFO: 2021/07/21 20:34:42 server.go:57:  用户退出
+INFO: 2021/07/21 20:34:42 server.go:57:  用户退出
+INFO: 2021/07/21 20:34:42 server.go:57:  用户退出
+INFO: 2021/07/21 20:34:42 server.go:57:  用户退出
+INFO: 2021/07/21 20:34:42 server.go:57:  用户退出
+INFO: 2021/07/21 20:34:43 server.go:57:  用户退出
+INFO: 2021/07/21 20:34:43 server.go:57:  用户退出
+INFO: 2021/07/21 20:34:43 server.go:57:  用户退出
+INFO: 2021/07/21 20:34:43 server.go:57:  用户退出
+INFO: 2021/07/21 20:34:43 server.go:57:  用户退出
+INFO: 2021/07/21 20:34:43 server.go:57:  用户退出
+INFO: 2021/07/21 20:34:43 server.go:57:  用户退出
+INFO: 2021/07/21 20:34:43 server.go:57:  用户退出
+INFO: 2021/07/21 20:34:43 server.go:57:  用户退出
+INFO: 2021/07/21 20:34:43 server.go:57:  用户退出
+INFO: 2021/07/21 20:34:44 server.go:57:  用户退出
+INFO: 2021/07/21 20:34:44 server.go:57:  用户退出
+INFO: 2021/07/21 20:34:44 server.go:57:  用户退出
+INFO: 2021/07/21 20:34:44 server.go:57:  用户退出
+INFO: 2021/07/21 20:34:44 server.go:57:  用户退出
+INFO: 2021/07/21 20:34:44 server.go:57:  用户退出
+INFO: 2021/07/21 20:34:44 server.go:57:  用户退出
+INFO: 2021/07/21 20:34:44 server.go:57:  用户退出
+INFO: 2021/07/22 10:46:07 server.go:46: 新的用户连接,ccc
+INFO: 2021/07/22 10:46:10 server.go:46: 新的用户连接,hyb
+INFO: 2021/07/22 10:46:11 server.go:46: 新的用户连接,bbb
+INFO: 2021/07/22 10:46:16 server.go:57: ccc 用户退出
+INFO: 2021/07/22 10:46:23 server.go:46: 新的用户连接,ccc
+INFO: 2021/07/22 10:46:44 server.go:57: ccc 用户退出
+INFO: 2021/07/23 11:34:29 server.go:46: 新的用户连接,jjj
+INFO: 2021/07/23 11:34:43 server.go:46: 新的用户连接,ccc
+INFO: 2021/07/23 11:34:43 server.go:57: ccc 用户退出
+INFO: 2021/07/23 11:34:47 server.go:46: 新的用户连接,ccc
+INFO: 2021/07/23 11:35:11 server.go:70: 返回用户列表: {{{} [] [] <nil>} 0 []    [jjj ccc]}
+INFO: 2021/07/23 11:35:29 server.go:57: jjj 用户退出
+INFO: 2021/07/23 11:35:35 server.go:46: 新的用户连接,jjj
+INFO: 2021/07/23 11:35:41 server.go:70: 返回用户列表: {{{} [] [] <nil>} 0 []    [jjj ccc]}
+INFO: 2021/07/23 11:35:44 server.go:57: jjj 用户退出
+INFO: 2021/07/23 11:36:07 server.go:46: 新的用户连接,jjj
+INFO: 2021/07/23 11:36:08 server.go:46: 新的用户连接,jjj
+INFO: 2021/07/23 11:36:21 server.go:57: jjj 用户退出
+INFO: 2021/07/23 11:36:21 server.go:57: jjj 用户退出
+INFO: 2021/07/23 11:36:35 server.go:57: ccc 用户退出
+INFO: 2021/07/23 11:37:19 server.go:46: 新的用户连接,hyb
+INFO: 2021/07/23 11:37:23 server.go:46: 新的用户连接,ccc
+INFO: 2021/07/23 11:37:26 server.go:46: 新的用户连接,bbb
+INFO: 2021/07/23 11:40:24 server.go:46: 新的用户连接,ccc
+INFO: 2021/07/23 11:40:26 server.go:46: 新的用户连接,hyb
+INFO: 2021/07/23 11:40:27 server.go:46: 新的用户连接,bbb
+INFO: 2021/07/23 11:44:20 server.go:46: 新的用户连接,ccc
+INFO: 2021/07/23 11:50:20 server.go:46: 新的用户连接,ccc
+INFO: 2021/07/23 11:53:16 server.go:46: 新的用户连接,asdw
+INFO: 2021/07/23 11:53:18 server.go:57: asdw 用户退出
+INFO: 2021/07/23 11:53:56 server.go:57: ccc 用户退出
+INFO: 2021/07/23 11:54:14 server.go:46: 新的用户连接,hyb
+INFO: 2021/07/23 11:54:44 server.go:46: 新的用户连接,ccc
+INFO: 2021/07/23 11:54:45 server.go:70: 返回用户列表: {{{} [] [] <nil>} 0 []    [hyb ccc]}
+INFO: 2021/07/23 11:55:05 server.go:70: 返回用户列表: {{{} [] [] <nil>} 0 []    [hyb ccc]}
+INFO: 2021/07/23 11:55:14 server.go:57: hyb 用户退出
+INFO: 2021/07/23 11:55:45 server.go:46: 新的用户连接,hyb
+INFO: 2021/07/23 11:55:51 server.go:57: hyb 用户退出
+INFO: 2021/07/23 11:56:32 server.go:57: ccc 用户退出
+INFO: 2021/07/23 12:03:48 server.go:46: 新的用户连接,hyb
+INFO: 2021/07/23 12:04:48 server.go:57: hyb 用户退出
+INFO: 2021/07/23 12:05:40 server.go:46: 新的用户连接,aaa
+INFO: 2021/07/23 12:06:40 server.go:57: aaa 用户退出
+INFO: 2021/07/23 12:11:07 server.go:46: 新的用户连接,fff
+INFO: 2021/07/23 12:12:34 server.go:57: fff 用户退出
+INFO: 2021/07/23 12:15:50 server.go:46: 新的用户连接,aw
+INFO: 2021/07/23 12:16:51 server.go:46: 新的用户连接,ccc
+INFO: 2021/07/23 12:16:52 server.go:46: 新的用户连接,hyb
+INFO: 2021/07/23 12:16:54 server.go:46: 新的用户连接,bbb
+INFO: 2021/07/23 12:17:38 server.go:57: aw 用户退出
+INFO: 2021/07/23 12:23:07 server.go:46: 新的用户连接,aaa
+INFO: 2021/07/23 14:29:51 server.go:46: 新的用户连接,ccc
+INFO: 2021/07/23 14:30:00 server.go:46: 新的用户连接,hyb
+INFO: 2021/07/23 14:30:02 server.go:46: 新的用户连接,bbb
+INFO: 2021/07/23 14:30:48 server.go:81: 发送消息: :hello everyone
+INFO: 2021/07/23 14:30:48 server.go:81: 发送消息: :hello everyone
+INFO: 2021/07/23 14:30:48 server.go:81: 发送消息: :hello everyone
+INFO: 2021/07/23 14:32:08 server.go:81: 发送消息: bbb:hello everyone
+INFO: 2021/07/23 14:32:08 server.go:81: 发送消息: bbb:hello everyone
+INFO: 2021/07/23 14:32:08 server.go:81: 发送消息: bbb:hello everyone
+INFO: 2021/07/23 14:32:33 server.go:58: ccc 用户退出
+INFO: 2021/07/23 14:32:42 server.go:58: hyb 用户退出
+INFO: 2021/07/23 14:32:44 server.go:58: bbb 用户退出
+INFO: 2021/07/23 14:32:49 server.go:46: 新的用户连接,ccc
+INFO: 2021/07/23 14:32:51 server.go:46: 新的用户连接,hyb
+INFO: 2021/07/23 14:32:54 server.go:46: 新的用户连接,bbb
+INFO: 2021/07/23 14:32:57 server.go:81: 发送消息: bbb:hello everyone
+INFO: 2021/07/23 14:32:57 server.go:81: 发送消息: bbb:hello everyone
+INFO: 2021/07/23 14:32:57 server.go:81: 发送消息: bbb:hello everyone
+INFO: 2021/07/23 14:33:30 server.go:58: ccc 用户退出
+INFO: 2021/07/23 15:06:29 server.go:47: 新的用户连接,aaa
+INFO: 2021/07/23 15:06:41 server.go:47: 新的用户连接,hyb
+INFO: 2021/07/23 15:06:56 server.go:47: 新的用户连接,ccc
+INFO: 2021/07/23 15:07:45 server.go:59: aaa 用户退出
+INFO: 2021/07/23 15:08:41 server.go:47: 新的用户连接,ccc
+INFO: 2021/07/23 15:08:48 server.go:47: 新的用户连接,ccc
+INFO: 2021/07/23 15:08:53 server.go:47: 新的用户连接,hyb
+INFO: 2021/07/23 15:09:04 server.go:47: 新的用户连接,bbb
+INFO: 2021/07/23 15:10:55 server.go:47: 新的用户连接,hhh
+INFO: 2021/07/23 15:11:03 server.go:47: 新的用户连接,ccc
+INFO: 2021/07/23 15:11:10 server.go:47: 新的用户连接,hyb
+INFO: 2021/07/23 15:11:13 server.go:47: 新的用户连接,bbb
+INFO: 2021/07/23 15:12:07 server.go:59: hhh 用户退出
+INFO: 2021/07/23 15:12:27 server.go:59: ccc 用户退出
+INFO: 2021/07/23 15:12:37 server.go:47: 新的用户连接,ccc
+INFO: 2021/07/23 15:12:39 server.go:59: ccc 用户退出
+INFO: 2021/07/23 15:12:58 server.go:59: hyb 用户退出
+INFO: 2021/07/23 15:48:46 server.go:47: 新的用户连接,jjj
+INFO: 2021/07/23 15:48:51 server.go:47: 新的用户连接,ccc
+INFO: 2021/07/23 15:48:58 server.go:47: 新的用户连接,hyb
+INFO: 2021/07/23 15:49:00 server.go:47: 新的用户连接,bbb
+INFO: 2021/07/23 15:50:07 server.go:59: jjj 用户退出
+INFO: 2021/07/23 15:50:18 server.go:47: 新的用户连接,qqq
+INFO: 2021/07/23 15:50:39 server.go:59: ccc 用户退出
+INFO: 2021/07/23 15:50:46 server.go:59: hyb 用户退出
+INFO: 2021/07/23 15:50:48 server.go:59: bbb 用户退出
+INFO: 2021/07/23 15:51:07 server.go:47: 新的用户连接,ccc
+INFO: 2021/07/23 15:51:09 server.go:47: 新的用户连接,hyb
+INFO: 2021/07/23 15:51:11 server.go:47: 新的用户连接,bbb
+INFO: 2021/07/23 15:51:20 server.go:88: 发送消息: bbb:hello everyone
+INFO: 2021/07/23 15:51:20 server.go:88: 发送消息: bbb:hello everyone
+INFO: 2021/07/23 15:51:20 server.go:88: 发送消息: bbb:hello everyone
+INFO: 2021/07/23 15:51:20 server.go:88: 发送消息: bbb:hello everyone
+INFO: 2021/07/23 15:52:04 server.go:59: qqq 用户退出
+INFO: 2021/07/23 15:54:10 server.go:47: 新的用户连接,fff
+INFO: 2021/07/23 15:54:23 server.go:59: fff 用户退出
+INFO: 2021/07/23 15:55:29 server.go:47: 新的用户连接,vvv
+INFO: 2021/07/23 15:56:52 server.go:47: 新的用户连接,ccc
+INFO: 2021/07/23 15:56:55 server.go:47: 新的用户连接,hyb
+INFO: 2021/07/23 15:56:56 server.go:47: 新的用户连接,bbb
+INFO: 2021/07/23 15:56:58 server.go:88: 发送消息: bbb:hello everyone
+INFO: 2021/07/23 15:56:58 server.go:88: 发送消息: bbb:hello everyone
+INFO: 2021/07/23 15:56:58 server.go:88: 发送消息: bbb:hello everyone
+INFO: 2021/07/23 15:56:58 server.go:88: 发送消息: bbb:hello everyone
+INFO: 2021/07/23 15:57:10 server.go:88: 发送消息: bbb:hello everyone
+INFO: 2021/07/23 15:57:10 server.go:88: 发送消息: bbb:hello everyone
+INFO: 2021/07/23 15:57:10 server.go:88: 发送消息: bbb:hello everyone
+INFO: 2021/07/23 15:57:10 server.go:88: 发送消息: bbb:hello everyone
+INFO: 2021/07/23 15:57:17 server.go:59: vvv 用户退出
+INFO: 2021/07/23 15:57:37 server.go:47: 新的用户连接,bbn
+INFO: 2021/07/23 15:57:55 server.go:88: 发送消息: bbb:hello everyone
+INFO: 2021/07/23 15:57:55 server.go:88: 发送消息: bbb:hello everyone
+INFO: 2021/07/23 15:57:55 server.go:88: 发送消息: bbb:hello everyone
+INFO: 2021/07/23 15:57:55 server.go:88: 发送消息: bbb:hello everyone
+INFO: 2021/07/23 16:02:22 server.go:47: 新的用户连接,mmm
+INFO: 2021/07/23 16:02:27 server.go:88: 发送消息: mmm:asdw
+INFO: 2021/07/23 16:03:03 server.go:47: 新的用户连接,bbb
+INFO: 2021/07/23 16:03:44 server.go:88: 发送消息: mmm:hello
+
+INFO: 2021/07/23 16:03:44 server.go:88: 发送消息: mmm:hello
+
+INFO: 2021/07/23 16:03:49 server.go:88: 发送消息: mmm:hello
+INFO: 2021/07/23 16:03:49 server.go:88: 发送消息: mmm:hello
+INFO: 2021/07/23 16:04:04 server.go:88: 发送消息: mmm:hello
+INFO: 2021/07/23 16:04:04 server.go:88: 发送消息: mmm:hello
+INFO: 2021/07/23 16:04:10 server.go:59: mmm 用户退出
+INFO: 2021/07/23 16:04:21 server.go:47: 新的用户连接,kkk
+INFO: 2021/07/23 16:04:25 server.go:88: 发送消息: kkk:hello
+INFO: 2021/07/23 16:04:25 server.go:88: 发送消息: kkk:hello
+INFO: 2021/07/23 16:04:30 server.go:88: 发送消息: kkk:hello world
+INFO: 2021/07/23 16:04:30 server.go:88: 发送消息: kkk:hello world
+INFO: 2021/07/23 16:04:41 server.go:88: 发送消息: kkk:nihao
+INFO: 2021/07/23 16:04:41 server.go:88: 发送消息: kkk:nihao
+INFO: 2021/07/23 16:04:51 server.go:59: bbb 用户退出
+INFO: 2021/07/23 16:05:07 server.go:59: kkk 用户退出
+INFO: 2021/07/23 16:06:09 server.go:47: 新的用户连接,eee
+INFO: 2021/07/23 16:06:15 server.go:47: 新的用户连接,hyb
+INFO: 2021/07/23 16:06:18 server.go:47: 新的用户连接,ccc
+INFO: 2021/07/23 16:07:15 server.go:59: eee 用户退出
+INFO: 2021/07/23 16:09:31 server.go:47: 新的用户连接,hhh
+INFO: 2021/07/23 16:09:55 server.go:47: 新的用户连接,hhh
+INFO: 2021/07/23 16:10:00 server.go:59: hhh 用户退出
+INFO: 2021/07/23 16:10:00 server.go:59: hhh 用户退出
+INFO: 2021/07/23 16:10:15 server.go:47: 新的用户连接,zxcs
+INFO: 2021/07/23 16:10:53 server.go:88: 发送消息: zxcs:sdfe
+INFO: 2021/07/23 16:11:45 server.go:59: zxcs 用户退出
+INFO: 2021/07/23 16:12:02 server.go:47: 新的用户连接,sdw
+INFO: 2021/07/23 16:12:11 server.go:47: 新的用户连接,bbb
+INFO: 2021/07/23 16:12:17 server.go:47: 新的用户连接,ccc
+INFO: 2021/07/23 16:12:20 server.go:88: 发送消息: bbb:hello everyone
+INFO: 2021/07/23 16:12:20 server.go:88: 发送消息: bbb:hello everyone
+INFO: 2021/07/23 16:12:20 server.go:88: 发送消息: bbb:hello everyone
+INFO: 2021/07/23 16:12:35 server.go:88: 发送消息: bbb:hello everyone1111
+INFO: 2021/07/23 16:12:35 server.go:88: 发送消息: bbb:hello everyone1111
+INFO: 2021/07/23 16:12:35 server.go:88: 发送消息: bbb:hello everyone1111
+INFO: 2021/07/23 16:12:41 server.go:88: 发送消息: sdw:sdfwad
+INFO: 2021/07/23 16:12:41 server.go:88: 发送消息: sdw:sdfwad
+INFO: 2021/07/23 16:12:41 server.go:88: 发送消息: sdw:sdfwad
+INFO: 2021/07/23 16:13:09 server.go:88: 发送消息: sdw:infomation
+INFO: 2021/07/23 16:13:09 server.go:88: 发送消息: sdw:infomation
+INFO: 2021/07/23 16:13:09 server.go:88: 发送消息: sdw:infomation
+INFO: 2021/07/23 16:13:24 server.go:88: 发送消息: sdw:infomation4444
+INFO: 2021/07/23 16:13:24 server.go:88: 发送消息: sdw:infomation4444
+INFO: 2021/07/23 16:13:24 server.go:88: 发送消息: sdw:infomation4444
+INFO: 2021/07/23 16:13:27 server.go:88: 发送消息: sdw:infomation4444
+INFO: 2021/07/23 16:13:27 server.go:88: 发送消息: sdw:infomation4444
+INFO: 2021/07/23 16:13:27 server.go:88: 发送消息: sdw:infomation4444
+INFO: 2021/07/23 16:13:27 server.go:88: 发送消息: sdw:infomation4444
+INFO: 2021/07/23 16:13:27 server.go:88: 发送消息: sdw:infomation4444
+INFO: 2021/07/23 16:13:27 server.go:88: 发送消息: sdw:infomation4444
+INFO: 2021/07/23 16:13:28 server.go:88: 发送消息: sdw:infomation4444
+INFO: 2021/07/23 16:13:28 server.go:88: 发送消息: sdw:infomation4444
+INFO: 2021/07/23 16:13:28 server.go:88: 发送消息: sdw:infomation4444
+INFO: 2021/07/23 16:13:28 server.go:88: 发送消息: sdw:infomation4444
+INFO: 2021/07/23 16:13:28 server.go:88: 发送消息: sdw:infomation4444
+INFO: 2021/07/23 16:13:28 server.go:88: 发送消息: sdw:infomation4444
+INFO: 2021/07/23 16:13:28 server.go:88: 发送消息: sdw:infomation4444
+INFO: 2021/07/23 16:13:28 server.go:88: 发送消息: sdw:infomation4444
+INFO: 2021/07/23 16:13:28 server.go:88: 发送消息: sdw:infomation4444
+INFO: 2021/07/23 16:13:28 server.go:88: 发送消息: sdw:infomation4444
+INFO: 2021/07/23 16:13:28 server.go:88: 发送消息: sdw:infomation4444
+INFO: 2021/07/23 16:13:28 server.go:88: 发送消息: sdw:infomation4444
+INFO: 2021/07/23 16:13:28 server.go:88: 发送消息: sdw:infomation4444
+INFO: 2021/07/23 16:13:28 server.go:88: 发送消息: sdw:infomation4444
+INFO: 2021/07/23 16:13:28 server.go:88: 发送消息: sdw:infomation4444
+INFO: 2021/07/23 16:13:32 server.go:59: sdw 用户退出
+INFO: 2021/07/23 16:13:42 server.go:47: 新的用户连接,asdw
+INFO: 2021/07/23 16:13:49 server.go:88: 发送消息: asdw:infomation
+INFO: 2021/07/23 16:13:49 server.go:88: 发送消息: asdw:infomation
+INFO: 2021/07/23 16:13:49 server.go:88: 发送消息: asdw:infomation
+INFO: 2021/07/23 16:13:59 server.go:59: bbb 用户退出
+INFO: 2021/07/23 16:13:59 server.go:88: 发送消息: asdw:asdwinfomation
+INFO: 2021/07/23 16:13:59 server.go:88: 发送消息: asdw:asdwinfomation
+INFO: 2021/07/23 16:14:05 server.go:59: ccc 用户退出
+INFO: 2021/07/23 16:14:16 server.go:47: 新的用户连接,bbb
+INFO: 2021/07/23 16:14:19 server.go:47: 新的用户连接,ccc
+INFO: 2021/07/23 16:14:22 server.go:88: 发送消息: asdw:asdwinfomation
+INFO: 2021/07/23 16:14:22 server.go:88: 发送消息: asdw:asdwinfomation
+INFO: 2021/07/23 16:14:22 server.go:88: 发送消息: asdw:asdwinfomation
+INFO: 2021/07/23 16:14:25 server.go:88: 发送消息: asdw:asdwinfomation111
+INFO: 2021/07/23 16:14:25 server.go:88: 发送消息: asdw:asdwinfomation111
+INFO: 2021/07/23 16:14:25 server.go:88: 发送消息: asdw:asdwinfomation111
+INFO: 2021/07/23 16:14:30 server.go:88: 发送消息: asdw:asdwasdwinfomation111
+INFO: 2021/07/23 16:14:30 server.go:88: 发送消息: asdw:asdwasdwinfomation111
+INFO: 2021/07/23 16:14:30 server.go:88: 发送消息: asdw:asdwasdwinfomation111
+INFO: 2021/07/23 16:14:38 server.go:88: 发送消息: asdw:hello
+INFO: 2021/07/23 16:14:38 server.go:88: 发送消息: asdw:hello
+INFO: 2021/07/23 16:14:38 server.go:88: 发送消息: asdw:hello
+INFO: 2021/07/23 16:14:42 server.go:59: bbb 用户退出
+INFO: 2021/07/23 16:16:19 server.go:59: asdw 用户退出
+INFO: 2021/07/23 16:19:19 server.go:47: 新的用户连接,zxc
+INFO: 2021/07/23 16:23:38 server.go:88: 发送消息: zxc:asdw
+INFO: 2021/07/23 16:23:42 server.go:59: zxc 用户退出
+INFO: 2021/07/23 16:23:52 server.go:47: 新的用户连接,qqq
+INFO: 2021/07/23 16:23:55 server.go:88: 发送消息: qqq:aczx
+INFO: 2021/07/23 16:23:58 server.go:88: 发送消息: qqq:tjgj
+INFO: 2021/07/23 16:24:00 server.go:88: 发送消息: qqq:wesd
+INFO: 2021/07/23 16:24:03 server.go:88: 发送消息: qqq:dfbrerg
+INFO: 2021/07/23 16:24:06 server.go:88: 发送消息: qqq:wregergdf
+INFO: 2021/07/23 16:24:10 server.go:88: 发送消息: qqq:aadfrg
+INFO: 2021/07/23 16:24:19 server.go:59: qqq 用户退出
+INFO: 2021/07/23 16:24:39 server.go:47: 新的用户连接,aaa
+INFO: 2021/07/23 16:24:47 server.go:47: 新的用户连接,ccc
+INFO: 2021/07/23 16:24:49 server.go:47: 新的用户连接,hyb
+INFO: 2021/07/23 16:24:50 server.go:47: 新的用户连接,bbb
+INFO: 2021/07/23 16:24:55 server.go:59: bbb 用户退出
+INFO: 2021/07/23 16:24:56 server.go:59: hyb 用户退出
+INFO: 2021/07/23 16:24:59 server.go:59: ccc 用户退出
+INFO: 2021/07/23 16:25:34 server.go:47: 新的用户连接,aaa
+INFO: 2021/07/23 16:25:36 server.go:47: 新的用户连接,aaa
+INFO: 2021/07/23 16:25:46 server.go:47: 新的用户连接,aaa
+INFO: 2021/07/23 16:25:46 server.go:59: aaa 用户退出
+INFO: 2021/07/23 16:25:46 server.go:59: aaa 用户退出
+INFO: 2021/07/23 16:25:53 server.go:47: 新的用户连接,aaa
+INFO: 2021/07/23 16:25:54 server.go:47: 新的用户连接,aaa
+INFO: 2021/07/23 16:25:54 server.go:59: aaa 用户退出
+INFO: 2021/07/23 16:25:54 server.go:59: aaa 用户退出
+INFO: 2021/07/23 16:25:57 server.go:47: 新的用户连接,aaa
+INFO: 2021/07/23 16:26:00 server.go:47: 新的用户连接,aaa
+INFO: 2021/07/23 16:26:00 server.go:59: aaa 用户退出
+INFO: 2021/07/23 16:26:00 server.go:59: aaa 用户退出
+INFO: 2021/07/23 16:26:00 server.go:59: aaa 用户退出
+INFO: 2021/07/23 16:26:53 server.go:59: aaa 用户退出
+INFO: 2021/07/23 16:27:03 server.go:47: 新的用户连接,jk
+INFO: 2021/07/23 16:27:20 server.go:47: 新的用户连接,jk
+INFO: 2021/07/23 16:27:36 server.go:59: jk 用户退出
+INFO: 2021/07/23 16:27:36 server.go:59: jk 用户退出
+INFO: 2021/07/23 17:03:08 server.go:47: 新的用户连接,asdw
+INFO: 2021/07/23 17:03:10 server.go:59: asdw 用户退出
+INFO: 2021/07/23 17:06:00 server.go:47: 新的用户连接,xcsz
+INFO: 2021/07/23 17:06:02 server.go:59: xcsz 用户退出
+INFO: 2021/07/23 17:06:48 server.go:47: 新的用户连接,xcsz
+INFO: 2021/07/23 17:06:54 server.go:47: 新的用户连接,ccc
+INFO: 2021/07/23 17:07:21 server.go:47: 新的用户连接,hyb
+INFO: 2021/07/23 17:07:23 server.go:47: 新的用户连接,bbb
+INFO: 2021/07/23 17:07:31 server.go:59: bbb 用户退出
+INFO: 2021/07/23 17:07:39 server.go:59: xcsz 用户退出
+INFO: 2021/07/23 17:07:49 server.go:47: 新的用户连接,xcsz
+INFO: 2021/07/23 17:07:51 server.go:59: xcsz 用户退出
+INFO: 2021/07/23 17:07:53 server.go:47: 新的用户连接,xcsz
+INFO: 2021/07/23 17:07:55 server.go:59: xcsz 用户退出
+INFO: 2021/07/23 17:08:00 server.go:47: 新的用户连接,xcsz
+INFO: 2021/07/23 17:08:06 server.go:59: xcsz 用户退出
+INFO: 2021/07/23 17:08:07 server.go:47: 新的用户连接,xcsz
+INFO: 2021/07/23 17:08:09 server.go:59: xcsz 用户退出
+INFO: 2021/07/23 17:08:09 server.go:47: 新的用户连接,xcsz
+INFO: 2021/07/23 17:08:10 server.go:59: xcsz 用户退出
+INFO: 2021/07/23 17:08:42 server.go:59: ccc 用户退出
+INFO: 2021/07/23 17:09:09 server.go:59: hyb 用户退出
+INFO: 2021/07/23 17:24:56 server.go:47: 新的用户连接,asd
+INFO: 2021/07/23 17:25:03 server.go:47: 新的用户连接,ccc
+INFO: 2021/07/23 17:25:05 server.go:47: 新的用户连接,hyb
+INFO: 2021/07/23 17:25:07 server.go:47: 新的用户连接,bbb
+INFO: 2021/07/23 17:25:11 server.go:59: bbb 用户退出
+INFO: 2021/07/23 17:27:00 server.go:59: asd 用户退出
+INFO: 2021/07/23 17:27:06 server.go:59: hyb 用户退出
+INFO: 2021/07/23 17:27:08 server.go:59: ccc 用户退出
+INFO: 2021/07/23 17:27:13 server.go:47: 新的用户连接,xxx
+INFO: 2021/07/23 17:27:16 server.go:47: 新的用户连接,ccc
+INFO: 2021/07/23 17:27:18 server.go:47: 新的用户连接,hyb
+INFO: 2021/07/23 17:27:19 server.go:47: 新的用户连接,bbb
+INFO: 2021/07/23 17:27:29 server.go:59: xxx 用户退出
+INFO: 2021/07/23 17:28:32 server.go:59: bbb 用户退出
+INFO: 2021/07/23 17:28:37 server.go:59: hyb 用户退出
+INFO: 2021/07/23 17:28:39 server.go:59: ccc 用户退出
+INFO: 2021/07/23 17:28:40 server.go:47: 新的用户连接,ccc
+INFO: 2021/07/23 17:28:44 server.go:47: 新的用户连接,xxx
+INFO: 2021/07/23 17:28:50 server.go:47: 新的用户连接,hyb
+INFO: 2021/07/23 17:28:51 server.go:47: 新的用户连接,bbb
+INFO: 2021/07/23 17:29:16 server.go:59: xxx 用户退出
+INFO: 2021/07/23 17:32:43 server.go:47: 新的用户连接,asd
+INFO: 2021/07/23 17:33:01 server.go:59: asd 用户退出
+INFO: 2021/07/23 17:33:10 server.go:59: ccc 用户退出
+INFO: 2021/07/23 17:33:12 server.go:47: 新的用户连接,asdw
+INFO: 2021/07/23 17:33:20 server.go:59: hyb 用户退出
+INFO: 2021/07/23 17:33:21 server.go:59: bbb 用户退出
+INFO: 2021/07/23 17:33:56 server.go:47: 新的用户连接,ccc
+INFO: 2021/07/23 17:34:12 server.go:59: asdw 用户退出
+INFO: 2021/07/23 17:37:12 server.go:47: 新的用户连接,asdw
+INFO: 2021/07/23 17:37:12 server.go:73: 返回用户列表: {{{} [] [] <nil>} 0 []  userlist  [asdw]}
+INFO: 2021/07/23 17:37:22 server.go:47: 新的用户连接,ccc
+INFO: 2021/07/23 17:37:22 server.go:73: 返回用户列表: {{{} [] [] <nil>} 0 []  userlist  [asdw ccc]}
+INFO: 2021/07/23 17:37:26 server.go:47: 新的用户连接,hyb
+INFO: 2021/07/23 17:37:26 server.go:73: 返回用户列表: {{{} [] [] <nil>} 0 []  userlist  [hyb asdw ccc]}
+INFO: 2021/07/23 17:37:31 server.go:47: 新的用户连接,bbb
+INFO: 2021/07/23 17:37:31 server.go:73: 返回用户列表: {{{} [] [] <nil>} 0 []  userlist  [asdw ccc hyb bbb]}
+INFO: 2021/07/23 17:37:44 server.go:59: asdw 用户退出
+INFO: 2021/07/23 17:38:56 server.go:47: 新的用户连接,zxcs
+INFO: 2021/07/23 17:38:56 server.go:73: 返回用户列表: {{{} [] [] <nil>} 0 []  userlist  [zxcs]}
+INFO: 2021/07/23 17:39:02 server.go:47: 新的用户连接,ccc
+INFO: 2021/07/23 17:39:02 server.go:73: 返回用户列表: {{{} [] [] <nil>} 0 []  userlist  [zxcs ccc]}
+INFO: 2021/07/23 17:39:04 server.go:47: 新的用户连接,hyb
+INFO: 2021/07/23 17:39:04 server.go:73: 返回用户列表: {{{} [] [] <nil>} 0 []  userlist  [zxcs ccc hyb]}
+INFO: 2021/07/23 17:39:06 server.go:47: 新的用户连接,bbb
+INFO: 2021/07/23 17:39:06 server.go:73: 返回用户列表: {{{} [] [] <nil>} 0 []  userlist  [zxcs ccc hyb bbb]}
+INFO: 2021/07/23 17:39:15 server.go:59: ccc 用户退出
+INFO: 2021/07/23 17:39:15 server.go:73: 返回用户列表: {{{} [] [] <nil>} 0 []  userlist  [zxcs hyb bbb]}
+INFO: 2021/07/23 17:39:20 server.go:59: hyb 用户退出
+INFO: 2021/07/23 17:39:20 server.go:73: 返回用户列表: {{{} [] [] <nil>} 0 []  userlist  [zxcs bbb]}
+INFO: 2021/07/23 17:39:24 server.go:59: bbb 用户退出
+INFO: 2021/07/23 17:39:24 server.go:73: 返回用户列表: {{{} [] [] <nil>} 0 []  userlist  [zxcs]}
+INFO: 2021/07/23 17:39:35 server.go:59: zxcs 用户退出
+INFO: 2021/07/23 17:39:46 server.go:47: 新的用户连接,hyb
+INFO: 2021/07/23 17:39:48 server.go:47: 新的用户连接,bbb
+INFO: 2021/07/23 17:39:49 server.go:47: 新的用户连接,zxcs
+INFO: 2021/07/23 17:39:49 server.go:73: 返回用户列表: {{{} [] [] <nil>} 0 []  userlist  [hyb bbb zxcs]}
+INFO: 2021/07/23 17:39:55 server.go:59: hyb 用户退出
+INFO: 2021/07/23 17:39:55 server.go:73: 返回用户列表: {{{} [] [] <nil>} 0 []  userlist  [bbb zxcs]}
+INFO: 2021/07/23 17:39:57 server.go:59: bbb 用户退出
+INFO: 2021/07/23 17:39:57 server.go:73: 返回用户列表: {{{} [] [] <nil>} 0 []  userlist  [zxcs]}
+INFO: 2021/07/23 17:41:27 server.go:59: zxcs 用户退出
+INFO: 2021/07/23 17:44:19 server.go:47: 新的用户连接,aaa
+INFO: 2021/07/23 17:44:19 server.go:73: 返回用户列表: {{{} [] [] <nil>} 0 []  userlist  [aaa]}
+INFO: 2021/07/23 17:44:28 server.go:47: 新的用户连接,bbb
+INFO: 2021/07/23 17:44:28 server.go:73: 返回用户列表: {{{} [] [] <nil>} 0 []  userlist  [aaa bbb]}
+INFO: 2021/07/23 17:44:28 server.go:73: 返回用户列表: {{{} [] [] <nil>} 0 []  userlist  [aaa bbb]}
+INFO: 2021/07/23 17:44:33 server.go:47: 新的用户连接,ccc
+INFO: 2021/07/23 17:44:33 server.go:73: 返回用户列表: {{{} [] [] <nil>} 0 []  userlist  [aaa bbb ccc]}
+INFO: 2021/07/23 17:44:33 server.go:73: 返回用户列表: {{{} [] [] <nil>} 0 []  userlist  [aaa bbb ccc]}
+INFO: 2021/07/23 17:44:33 server.go:73: 返回用户列表: {{{} [] [] <nil>} 0 []  userlist  [ccc aaa bbb]}
+INFO: 2021/07/23 17:44:37 server.go:88: 发送消息: bbb:asdw
+INFO: 2021/07/23 17:44:37 server.go:88: 发送消息: bbb:asdw
+INFO: 2021/07/23 17:44:37 server.go:88: 发送消息: bbb:asdw
+INFO: 2021/07/23 17:44:37 server.go:73: 返回用户列表: {{{} [] [] <nil>} 0 []  userlist  [aaa bbb ccc]}
+INFO: 2021/07/23 17:44:37 server.go:73: 返回用户列表: {{{} [] [] <nil>} 0 []  userlist  [aaa bbb ccc]}
+INFO: 2021/07/23 17:44:37 server.go:73: 返回用户列表: {{{} [] [] <nil>} 0 []  userlist  [aaa bbb ccc]}
+INFO: 2021/07/23 17:44:49 server.go:88: 发送消息: aaa:hello 
+INFO: 2021/07/23 17:44:49 server.go:88: 发送消息: aaa:hello 
+INFO: 2021/07/23 17:44:49 server.go:88: 发送消息: aaa:hello 
+INFO: 2021/07/23 17:44:49 server.go:73: 返回用户列表: {{{} [] [] <nil>} 0 []  userlist  [ccc aaa bbb]}
+INFO: 2021/07/23 17:44:49 server.go:73: 返回用户列表: {{{} [] [] <nil>} 0 []  userlist  [aaa bbb ccc]}
+INFO: 2021/07/23 17:44:49 server.go:73: 返回用户列表: {{{} [] [] <nil>} 0 []  userlist  [aaa bbb ccc]}
+INFO: 2021/07/23 17:44:56 server.go:88: 发送消息: ccc:world
+INFO: 2021/07/23 17:44:56 server.go:88: 发送消息: ccc:world
+INFO: 2021/07/23 17:44:56 server.go:88: 发送消息: ccc:world
+INFO: 2021/07/23 17:44:56 server.go:73: 返回用户列表: {{{} [] [] <nil>} 0 []  userlist  [aaa bbb ccc]}
+INFO: 2021/07/23 17:44:56 server.go:73: 返回用户列表: {{{} [] [] <nil>} 0 []  userlist  [aaa bbb ccc]}
+INFO: 2021/07/23 17:44:56 server.go:73: 返回用户列表: {{{} [] [] <nil>} 0 []  userlist  [ccc aaa bbb]}
+INFO: 2021/07/23 17:45:01 server.go:59: ccc 用户退出
+INFO: 2021/07/23 17:45:01 server.go:73: 返回用户列表: {{{} [] [] <nil>} 0 []  userlist  [aaa bbb]}
+INFO: 2021/07/23 17:45:01 server.go:73: 返回用户列表: {{{} [] [] <nil>} 0 []  userlist  [aaa bbb]}
+INFO: 2021/07/23 17:45:04 server.go:47: 新的用户连接,ccc
+INFO: 2021/07/23 17:45:04 server.go:73: 返回用户列表: {{{} [] [] <nil>} 0 []  userlist  [ccc aaa bbb]}
+INFO: 2021/07/23 17:45:04 server.go:73: 返回用户列表: {{{} [] [] <nil>} 0 []  userlist  [aaa bbb ccc]}
+INFO: 2021/07/23 17:45:04 server.go:73: 返回用户列表: {{{} [] [] <nil>} 0 []  userlist  [aaa bbb ccc]}
+INFO: 2021/07/23 17:45:07 server.go:59: bbb 用户退出
+INFO: 2021/07/23 17:45:07 server.go:73: 返回用户列表: {{{} [] [] <nil>} 0 []  userlist  [aaa ccc]}
+INFO: 2021/07/23 17:45:07 server.go:73: 返回用户列表: {{{} [] [] <nil>} 0 []  userlist  [aaa ccc]}
+INFO: 2021/07/23 17:45:15 server.go:47: 新的用户连接,bbb
+INFO: 2021/07/23 17:45:15 server.go:73: 返回用户列表: {{{} [] [] <nil>} 0 []  userlist  [aaa bbb ccc]}
+INFO: 2021/07/23 17:45:15 server.go:73: 返回用户列表: {{{} [] [] <nil>} 0 []  userlist  [aaa bbb ccc]}
+INFO: 2021/07/23 17:45:15 server.go:73: 返回用户列表: {{{} [] [] <nil>} 0 []  userlist  [bbb ccc aaa]}
+INFO: 2021/07/23 17:45:27 server.go:88: 发送消息: bbb:hello
+INFO: 2021/07/23 17:45:27 server.go:88: 发送消息: bbb:hello
+INFO: 2021/07/23 17:45:27 server.go:88: 发送消息: bbb:hello
+INFO: 2021/07/23 17:45:27 server.go:73: 返回用户列表: {{{} [] [] <nil>} 0 []  userlist  [aaa bbb ccc]}
+INFO: 2021/07/23 17:45:27 server.go:73: 返回用户列表: {{{} [] [] <nil>} 0 []  userlist  [aaa bbb ccc]}
+INFO: 2021/07/23 17:45:33 server.go:88: 发送消息: bbb:xxx
+INFO: 2021/07/23 17:45:33 server.go:88: 发送消息: bbb:xxx
+INFO: 2021/07/23 17:45:33 server.go:88: 发送消息: bbb:xxx
+INFO: 2021/07/23 17:45:33 server.go:73: 返回用户列表: {{{} [] [] <nil>} 0 []  userlist  [aaa bbb ccc]}
+INFO: 2021/07/23 17:45:33 server.go:73: 返回用户列表: {{{} [] [] <nil>} 0 []  userlist  [aaa bbb ccc]}
+INFO: 2021/07/23 17:45:35 server.go:88: 发送消息: bbb:aaaaa
+INFO: 2021/07/23 17:45:35 server.go:88: 发送消息: bbb:aaaaa
+INFO: 2021/07/23 17:45:35 server.go:88: 发送消息: bbb:aaaaa
+INFO: 2021/07/23 17:45:35 server.go:73: 返回用户列表: {{{} [] [] <nil>} 0 []  userlist  [aaa bbb ccc]}
+INFO: 2021/07/23 17:45:35 server.go:73: 返回用户列表: {{{} [] [] <nil>} 0 []  userlist  [aaa bbb ccc]}
+INFO: 2021/07/23 17:45:41 server.go:59: bbb 用户退出
+INFO: 2021/07/23 17:45:41 server.go:73: 返回用户列表: {{{} [] [] <nil>} 0 []  userlist  [aaa ccc]}
+INFO: 2021/07/23 17:45:43 server.go:47: 新的用户连接,bbb
+INFO: 2021/07/23 17:45:43 server.go:73: 返回用户列表: {{{} [] [] <nil>} 0 []  userlist  [aaa bbb ccc]}
+INFO: 2021/07/23 17:45:43 server.go:73: 返回用户列表: {{{} [] [] <nil>} 0 []  userlist  [aaa bbb ccc]}
+INFO: 2021/07/23 17:45:48 server.go:59: aaa 用户退出
+INFO: 2021/07/23 17:45:48 server.go:73: 返回用户列表: {{{} [] [] <nil>} 0 []  userlist  [bbb ccc]}
+INFO: 2021/07/23 17:45:48 server.go:73: 返回用户列表: {{{} [] [] <nil>} 0 []  userlist  [bbb ccc]}
+INFO: 2021/07/23 17:45:50 server.go:59: ccc 用户退出
+INFO: 2021/07/23 17:45:50 server.go:73: 返回用户列表: {{{} [] [] <nil>} 0 []  userlist  [bbb]}
+INFO: 2021/07/23 17:45:56 server.go:59: bbb 用户退出
+INFO: 2021/07/23 18:31:29 server.go:47: 新的用户连接,hyb
+INFO: 2021/07/23 18:31:31 server.go:47: 新的用户连接,bbb
+INFO: 2021/07/23 18:31:52 server.go:47: 新的用户连接,xxx
+INFO: 2021/07/23 18:31:52 server.go:73: 返回用户列表: {{{} [] [] <nil>} 0 []  userlist  [hyb bbb xxx]}
+INFO: 2021/07/23 18:31:58 server.go:59: bbb 用户退出
+INFO: 2021/07/23 18:31:58 server.go:73: 返回用户列表: {{{} [] [] <nil>} 0 []  userlist  [xxx hyb]}
+INFO: 2021/07/23 18:32:06 server.go:59: xxx 用户退出
+INFO: 2021/07/23 18:32:13 server.go:59: hyb 用户退出
+INFO: 2021/07/23 18:38:21 server.go:47: 新的用户连接,aaa
+INFO: 2021/07/23 18:38:41 server.go:47: 新的用户连接,
+INFO: 2021/07/23 18:39:13 server.go:47: 新的用户连接,sss
+INFO: 2021/07/23 18:39:13 server.go:73: 返回用户列表: {{{} [] [] <nil>} 0 []  userlist  [aaa  sss]}
+INFO: 2021/07/23 18:39:27 server.go:59:  用户退出
+INFO: 2021/07/23 18:39:27 server.go:73: 返回用户列表: {{{} [] [] <nil>} 0 []  userlist  [aaa sss]}
+INFO: 2021/07/23 18:39:35 server.go:47: 新的用户连接,bbb
+INFO: 2021/07/23 18:39:35 server.go:73: 返回用户列表: {{{} [] [] <nil>} 0 []  userlist  [aaa bbb sss]}
+INFO: 2021/07/23 18:39:52 server.go:88: 发送消息: sss:adasdw
+INFO: 2021/07/23 18:39:52 server.go:88: 发送消息: sss:adasdw
+INFO: 2021/07/23 18:39:52 server.go:88: 发送消息: sss:adasdw
+INFO: 2021/07/23 18:39:52 server.go:73: 返回用户列表: {{{} [] [] <nil>} 0 []  userlist  [aaa bbb sss]}
+INFO: 2021/07/23 18:40:08 server.go:59: aaa 用户退出
+INFO: 2021/07/23 18:40:08 server.go:73: 返回用户列表: {{{} [] [] <nil>} 0 []  userlist  [bbb sss]}
+INFO: 2021/07/23 18:40:09 server.go:47: 新的用户连接,aaa
+INFO: 2021/07/23 18:40:09 server.go:73: 返回用户列表: {{{} [] [] <nil>} 0 []  userlist  [sss aaa bbb]}
+INFO: 2021/07/23 18:40:12 server.go:88: 发送消息: sss:dwas
+INFO: 2021/07/23 18:40:12 server.go:88: 发送消息: sss:dwas
+INFO: 2021/07/23 18:40:12 server.go:88: 发送消息: sss:dwas
+INFO: 2021/07/23 18:40:12 server.go:73: 返回用户列表: {{{} [] [] <nil>} 0 []  userlist  [bbb sss aaa]}
+INFO: 2021/07/23 18:50:51 server.go:59: sss 用户退出

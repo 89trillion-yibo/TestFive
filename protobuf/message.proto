@@ -1,0 +1,10 @@
+syntax = "proto3"; //指定proto为版本3
+package protobuf;
+option go_package = "/";
+
+message Message{
+  string messageText = 1;
+  string messageType = 2;
+  string user = 3;
+  repeated string userList = 4;
+}
